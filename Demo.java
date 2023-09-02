@@ -5,7 +5,9 @@ public class Demo {
 		int b=20;
 		int sum = a+b;
 		int sub = a-b;
+		int mul = a*b;
 		System.out.println("Sum of two number is "+sum);
 		System.out.println("Sub of two number is "+sub);
+		System.out.println("Mul of two number is "+mul);
 	}
 }
