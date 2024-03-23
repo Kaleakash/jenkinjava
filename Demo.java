@@ -4,5 +4,5 @@ public class Demo {
 		System.out.println("We are creating more than one jenkin jobs");
 		String name = "Akash Kale";
 		System.out.println("Welcome user "+name);
-	}
+	
 }
